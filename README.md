@@ -1,5 +1,5 @@
 ## Hi there, I'm Rinn 👋
-I'm hitting stuff with a wrench and make them so stuff
+I'm hitting stuff with a wrench and make them do stuff
 
 ## 🔭 Projects
 I'm too lazy to add them now
