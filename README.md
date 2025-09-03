@@ -8,7 +8,7 @@ I'm too lazy to add them now
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaRinn&show_icons=true&theme=radical)
 
 <p align="center">
-  <img src="https://giphy.com/gifs/perfect-loops-pVGsAWjzvXcZW4ZBTE" alt="Coding cat" />
+  ![Mood](https://giphy.com/gifs/perfect-loops-pVGsAWjzvXcZW4ZBTE)
 </p>
 
 
