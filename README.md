@@ -2,11 +2,11 @@
 I'm hitting things with a wrench and make them do stuff
 
 ## 🔭 Projects
--[] Calcifer1.0 - pending -Car Maintenance Reminder Box
--[] File Allocation Table - A Python-based simulation of a File Allocation Table (FAT) file system with basic file operations on a virtual HDD.
--[] LFSR-Password Generator - Generate secure passwords with customizable parameters via a Python GUI.
--[] Unity 3D games
--[] ...
+- **Calcifer 1.0** 🔧 – *Pending --- Car Maintenance Reminder Box for tracking deadlines.*
+- **File Allocation Table** 💾 – *Python simulation of a FAT file system with basic file operations on a virtual HDD.*
+- **LFSR Password Generator** 🔑 – *Generate secure passwords with customizable parameters via a Python GUI.*
+- **Unity 3D Games** 🎮 – *Various small games built in Unity.*
+- **...** ✨ – *More projects coming soon!*
 
 ## ⚡ Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaRinn&show_icons=true&theme=radical)
