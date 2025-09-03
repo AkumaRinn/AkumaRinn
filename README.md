@@ -1,5 +1,8 @@
 ## Hi there, I'm Rinn 👋
-I'm hitting stuff with a wrench and make them do stuff
+I'm hitting things with a wrench and make them do stuff
+
+![Coding cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 
 ## 🔭 Projects
 I'm too lazy to add them now
