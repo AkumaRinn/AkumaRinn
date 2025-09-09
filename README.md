@@ -16,9 +16,10 @@ I'm hitting things with a wrench and make them do stuff
 - ![Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-orange?logo=linux&logoColor=white) 
 
 ## 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 
 <!--
 **AkumaRinn/AkumaRinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
