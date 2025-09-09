@@ -11,15 +11,21 @@ I'm hitting things with a wrench and make them do stuff
 ## ⚡ Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaRinn&show_icons=true&theme=radical)
 
+## 💼 Industry Experience
+- **MCU Safety Software Engineer (2 years)** – Developed and tested embedded safety-critical software for microcontrollers
+
 ## 📚 Currently Learning
 - ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?logo=comptia&logoColor=white) 
 - ![Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-orange?logo=linux&logoColor=white) 
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00427E?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Functional Safety](https://img.shields.io/badge/Functional%20Safety-FF6F00?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <!--
 **AkumaRinn/AkumaRinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
