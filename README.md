@@ -24,15 +24,16 @@ I'm hitting things with a wrench and make them do stuff
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Functional Safety](https://img.shields.io/badge/Functional%20Safety-FF6F00?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🏢 Industry Tech
+![Functional Safety](https://img.shields.io/badge/Functional%20Safety-FF6F00?style=for-the-badge)
+![ISO26262](https://img.shields.io/badge/ISO26262-FF0000?style=for-the-badge)
 ![SmartGit](https://img.shields.io/badge/SmartGit-007ACC?style=for-the-badge&logo=git&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Lauterbach](https://img.shields.io/badge/Lauterbach-00599C?style=for-the-badge&logo=microchip&logoColor=white)
 ![AURIX](https://img.shields.io/badge/Infineon_AURIX-FF6600?style=for-the-badge)
-![ISO26262](https://img.shields.io/badge/ISO26262-FF0000?style=for-the-badge)
+
 
 <!--
 **AkumaRinn/AkumaRinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
