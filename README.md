@@ -16,7 +16,10 @@ I'm hitting things with a wrench and make them do stuff
 
 ## 📚 Currently Learning
 - ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?logo=comptia&logoColor=white) 
-- ![Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-orange?logo=linux&logoColor=white) 
+- ![Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-orange?logo=linux&logoColor=white)
+- ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
