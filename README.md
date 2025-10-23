@@ -5,7 +5,7 @@ I'm hitting things with a wrench and make them do stuff
 - **Calcifer 1.0** 🔧 – *Pending --- Car Maintenance Reminder Box for tracking deadlines.*
 - **File Allocation Table** 💾 – *Python simulation of a FAT file system with basic file operations on a virtual HDD.*
 - **LFSR Password Generator** 🔑 – *Generate secure passwords with customizable parameters via a Python GUI.*
-- **Discord BOT** 🎮 – *Automatically check and send messages on a discord channel. Check Read Me of the project*
+- **Discord BOT** 🤖 – *Automatically check and send messages on a discord channel. Check Read Me of the project*
 - **Unity 3D Games** 🎮 – *Various small games built in Unity.*
 - **...** ✨ – *More projects coming soon!*
 
