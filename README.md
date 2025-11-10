@@ -4,6 +4,7 @@ I'm hitting things with a wrench and make them do stuff
 ## 🔭 Projects
 - **Calcifer 1.0** 🔧 – *Pending --- Car Maintenance Reminder Box for tracking deadlines.*
 - **File Allocation Table** 💾 – *Python simulation of a FAT file system with basic file operations on a virtual HDD.*
+- **Library Management System** 📖 - *Java/XAMPP library management system, designed for the manager of a library, with user accounts, and borrowing evidence system*
 - **LFSR Password Generator** 🔑 – *Generate secure passwords with customizable parameters via a Python GUI.*
 - **Discord BOT** 🤖 – *Automatically check and send messages on a discord channel. Check Read Me of the project*
 - **Unity 3D Games** 🎮 – *Various small games built in Unity.*
@@ -19,7 +20,6 @@ I'm hitting things with a wrench and make them do stuff
 - ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?logo=comptia&logoColor=white) 
 - ![Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-orange?logo=linux&logoColor=white)
 - ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## 🛠️ Tech Stack
@@ -28,6 +28,7 @@ I'm hitting things with a wrench and make them do stuff
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🏢 Industry Tech
