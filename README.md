@@ -1,7 +1,8 @@
 ## Hi there, I'm Rinn 👋
-I'm hitting things with a wrench and make them do stuff
+*Do you remember who you were, before this world told you who you should be?*
 
 ## 🔭 Projects
+- **Night Shift** 🎮 - *On Going Project - Godot 3D Game.*
 - **Calcifer 1.0** 🔧 – *Pending --- Car Maintenance Reminder Box for tracking deadlines.*
 - **File Allocation Table** 💾 – *Python simulation of a FAT file system with basic file operations on a virtual HDD.*
 - **Library Management System** 📖 - *Java/XAMPP library management system, designed for the manager of a library, with user accounts, and borrowing evidence system*
