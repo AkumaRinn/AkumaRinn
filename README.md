@@ -12,7 +12,8 @@
 - **...** ✨ – *More projects coming soon!*
 
 ## ⚡ Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaRinn&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaRinn&show_icons=true&theme=tokyonight)
+
 
 ## 💼 Industry Experience
 - **MCU Safety Software Engineer (2 years)** – Developed and tested embedded safety-critical software for microcontrollers
