@@ -32,6 +32,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Godot](https://img.shields.io/badge/-?style=flat&logo=godot-engine&logoColor=white)
+
 
 ### 🏢 Industry Tech
 ![Functional Safety](https://img.shields.io/badge/Functional%20Safety-FF6F00?style=for-the-badge)
