@@ -1,22 +1,8 @@
 ## Hi there, I'm Rinn 👋
 *Do you remember who you were, before this world told you who you should be?*
-![Visitor Count](https://profile-counter.glitch.me/AkumaRinn/count.svg)
+<!--![Visitor Count](https://profile-counter.glitch.me/AkumaRinn/count.svg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkumaRinn&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaRinn&layout=compact&theme=tokyonight)
-<table width="100%">
-<tr>
-<td align="left">
-  <!-- Stats on the left -->
-  <img src="https://profile-counter.glitch.me/AkumaRinn/count.svg" alt="Visitor Count" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkumaRinn&theme=radical&hide_border=true" alt="GitHub Streak" />
-</td>
-<td align="right">
-  <!-- Top languages on the right -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaRinn&layout=compact&theme=radical" alt="Top Langs" />
-</td>
-</tr>
-</table>
-
+-->
 
 ## 🔭 Projects
 - **Night Shift** 🎮 - *On Going Project - Godot 3D Game.*
@@ -29,8 +15,20 @@
 - **...** ✨ – *More projects in my repos and many more that are not mentioned*
 
 ## ⚡ Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaRinn&show_icons=true&theme=tokyonight)
-
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaRinn&show_icons=true&theme=tokyonight)
+-->
+<table width="100%">
+<tr>
+<td align="left">
+  <!-- Stats on the left -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AkumaRinn&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</td>
+<td align="right">
+  <!-- Top languages on the right -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaRinn&layout=compact&theme=tokyonight" alt="Top Langs" />
+</td>
+</tr>
+</table>
 
 ## 💼 Industry Experience
 - **MCU Safety Software Engineer (2 years)** – Developed and tested embedded safety-critical software for microcontrollers
