@@ -3,6 +3,20 @@
 ![Visitor Count](https://profile-counter.glitch.me/AkumaRinn/count.svg)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkumaRinn&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaRinn&layout=compact&theme=tokyonight)
+<table width="100%">
+<tr>
+<td align="left">
+  <!-- Stats on the left -->
+  <img src="https://profile-counter.glitch.me/AkumaRinn/count.svg" alt="Visitor Count" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkumaRinn&theme=radical&hide_border=true" alt="GitHub Streak" />
+</td>
+<td align="right">
+  <!-- Top languages on the right -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaRinn&layout=compact&theme=radical" alt="Top Langs" />
+</td>
+</tr>
+</table>
+
 
 ## 🔭 Projects
 - **Night Shift** 🎮 - *On Going Project - Godot 3D Game.*
