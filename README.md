@@ -1,5 +1,8 @@
 ## Hi there, I'm Rinn 👋
 *Do you remember who you were, before this world told you who you should be?*
+![Visitor Count](https://profile-counter.glitch.me/AkumaRinn/count.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkumaRinn&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaRinn&layout=compact&theme=tokyonight)
 
 ## 🔭 Projects
 - **Night Shift** 🎮 - *On Going Project - Godot 3D Game.*
