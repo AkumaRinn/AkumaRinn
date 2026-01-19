@@ -9,7 +9,7 @@
 - **LFSR Password Generator** 🔑 – *Generate secure passwords with customizable parameters via a Python GUI.*
 - **Discord BOT** 🤖 – *Automatically check and send messages on a discord channel. Check Read Me of the project*
 - **Unity 3D Games** 🎮 – *Various small games built in Unity.*
-- **...** ✨ – *More projects coming soon!*
+- **...** ✨ – *More projects in my repos and many more that are not mentioned*
 
 ## ⚡ Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaRinn&show_icons=true&theme=tokyonight)
