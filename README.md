@@ -1,8 +1,14 @@
 ## Hi there, I'm Rinn 👋
 *Do you remember who you were, before this world told you who you should be?*
-<!--![Visitor Count](https://profile-counter.glitch.me/AkumaRinn/count.svg)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkumaRinn&theme=tokyonight&hide_border=true)
--->
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AkumaRinn&theme=dark)
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkumaRinn&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> -->
+
+
+<div align="center">
+/ᐠ - ˕ -マ 
+</div>
+
 
 ## 🔭 Projects
 - **Night Shift** 🎮 - *On Going Project - Godot 3D Game.*
@@ -25,7 +31,7 @@
 </td>
 <td align="right">
   <!-- Top languages on the right -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaRinn&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkumaRinn&layout=compact&theme=tokyonight" alt="Top Langs" width="356" />
 </td>
 </tr>
 </table>
