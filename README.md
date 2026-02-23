@@ -45,6 +45,9 @@
 - ![Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-orange?logo=linux&logoColor=white)
 - ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+## ⚙️ Tinkering with systems
+- ![Arch Linux](https://img.shields.io/badge/-1793D1?style=flat&logo=arch-linux&logoColor=white) *Let me just adjust these 3 pixels... for the next 8 hours :D*
+
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
