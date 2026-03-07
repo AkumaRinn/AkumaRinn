@@ -1,4 +1,4 @@
-## Hi there, I'm Rinn 👋
+## Hi there, I'm Rinn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="25" height="25"/>
 *Do you remember who you were, before this world told you who you should be?*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=AkumaRinn&theme=dark)
@@ -58,6 +58,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
 
 
 
