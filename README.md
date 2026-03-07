@@ -38,7 +38,7 @@
 </table>
 
 ## 💼 Industry Experience
-- **MCU Safety Software Engineer (2 years)** – Developed and tested embedded safety-critical software for microcontrollers
+- **MCU Safety Software Engineer (2 years)** – [currently] Develop and test embedded safety-critical software for microcontrollers
 
 ## 📚 Currently Learning
 - ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?logo=comptia&logoColor=white) 
