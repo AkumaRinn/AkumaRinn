@@ -11,15 +11,13 @@
 
 
 ## 🔭 Projects
+- **BitInt** 🔎 – *On Going Project - OSINT CLI Tool*
 - **NOIA** 💼 - *Creational Universe - Null Oniric Integrity Administration*
 - **Night Shift** 🎮 - *On Going Project - Godot 3D Game.*
-- **Calcifer 1.0** 🔧 – *Pending --- Car Maintenance Reminder Box for tracking deadlines.*
 - **File Allocation Table** 💾 – *Python simulation of a FAT file system with basic file operations on a virtual HDD.*
 - **Library Management System** 📖 - *Java/XAMPP library management system, designed for the manager of a library, with user accounts, and borrowing evidence system*
 - **LFSR Password Generator** 🔑 – *Generate secure passwords with customizable parameters via a Python GUI.*
 - **Discord BOT** 🤖 – *Automatically check and send messages on a discord channel. Check Read Me of the project*
-- **Unity 3D Games** 🎮 – *Various small games built in Unity.*
-- **...** ✨ – *More projects in my repos and many more that are not mentioned*
 
 ## ⚡ Stats
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkumaRinn&show_icons=true&theme=tokyonight)
